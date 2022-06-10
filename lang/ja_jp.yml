@@ -1,0 +1,54 @@
+#
+# Language-File created by: Gecolay
+# Translated by: PluginsForJapanize
+#
+
+
+
+Plugin:
+
+  plugin-enabled: "[P]&a プラグインは正常に有効化されました!"
+  plugin-link: "[P]&6 %Link%&a と正常にリンクしました!"
+  plugin-update: "[P]&a 新しいバージョンが利用可能です: &6 %NewVersion%&a!\n[P]&a 現在稼働中のバージョン:&6 %Version%&a!\n[P]&a 最新版のダウンロード:\n[P]&6 %Path%"
+  plugin-version: "[P]&c このプラグインはこのサーバーのバージョンでは利用できません! (&b%Version%&c)"
+  plugin-disabled: "[P]&a プラグインは正常に無効化されました!"
+  plugin-prefix: "&7[&6GSit&7]"
+
+
+
+Messages:
+
+  command-reload: "[P]&a 構成ファイルは正常に再読み込みされました!"
+  command-permission-error: "[P]&c あなたにはこのコマンドを利用するための権限がありません!"
+  command-sender-error: "[P]&c この送信者はこのコマンドを実行できません!"
+  command-version-error: "[P]&c サーバーのバージョンが古いです! (&b%Version%&c)\n[P]&c この機能を利用するには、サーバーのバージョンを更新してください!"
+
+  command-gsit-toggle-on: "[P]&a クリックで座る機能を有効化しました!"
+  command-gsit-toggle-off: "[P]&a クリックで座る機能を無効化しました!"
+  command-gsit-playertoggle-on: "[P]&a クリックでプレイヤーに座る機能を有効化しました!"
+  command-gsit-playertoggle-off: "[P]&a クリックでプレイヤーに座る機能を無効化しました!"
+
+  action-sit-now-error: "[P]&c ここには座れません!"
+  action-sit-world-error: "[P]&c このワールド内では座れません!"
+  action-sit-location-error: "[P]&c ここでは座れません!"
+  action-sit-safe-error: "[P]&c ここは安全ではないため座れません!"
+  action-sit-region-error: "[P]&c この場所では座れません!"
+  action-sit-kick-error: "[P]&c 誰かがすでにここに座っています!"
+  action-sit-info: "&6 <translatekey:key.sneak>&a を押して立ち上がります!"
+
+  action-playersit-info: "&6 <translatekey:key.sneak>&a を押して立ち上がります!"
+
+  action-pose-now-error: "[P]&c ここではポーズを取れません!"
+  action-pose-world-error: "[P]&c このワールド内ではポーズを取れません!"
+  action-pose-location-error: "[P]&c ここではポーズを取れません!"
+  action-pose-safe-error: "[P]&c ここは安全ではないためポーズを取れません!"
+  action-pose-region-error: "[P]&c この場所ではポーズを取れません!"
+  action-pose-kick-error: "[P]&c 誰かがすでにここでポーズを取っています!"
+  action-pose-info: "&6 <translatekey:key.sneak>&a を押してポーズを解除します!"
+
+  action-crawl-now-error: "[P]&c ここにはクロールできません!"
+  action-crawl-world-error: "[P]&c このワールド内ではクロールできません!"
+  action-crawl-region-error: "[P]&c この場所ではクロールできません!"
+  action-crawl-info: "&6 <translatekey:key.sneak>&a を押して立ち上がります!"
+
+  action-blocked-error: "[P]&c 現在このコマンドは実行できません!"
